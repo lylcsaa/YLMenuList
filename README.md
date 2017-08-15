@@ -1,5 +1,5 @@
 # YLMenuList
-
+#效果图 ![](https://github.com/lylcsaa/YLMenuList/blob/master/gif/menuList.gif?raw=true)
 #示例代码：
 ```Object-C
 -(void)showMenuList:(UIButton*)sender
